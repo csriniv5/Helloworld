@@ -16,7 +16,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-	"message"  : "Git hub is helping to create project"
+	"message"  : "Git hub is helping to create project even after deleting the file from anypoint"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
